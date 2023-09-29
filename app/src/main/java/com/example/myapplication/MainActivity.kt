@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun helloWorld(){
-        Log.d("TAG","Hello world")
+        Log.d("TAG","Hello world Alibek")
     }
 }
